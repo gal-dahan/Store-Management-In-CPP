@@ -1,12 +1,14 @@
-# Store-Management-In-C++-
+# Store-Management In C++
 This project is based on the MFC framework, final project in OOP.
+
 Store management system
+
 The goal of this project is to system optimization shop with specs:
 * Language: 'C++'
 * Librarie: `STL` 
 * Framework: ' MFC'
 
-Store management system clothes and accessories includes :
+#Store management system clothes and accessories includes :
 ## Order management system
 
 
@@ -23,7 +25,12 @@ Store management system clothes and accessories includes :
 ### Designer
 -basic drawings: Lines, Rectangles, Circles, Ellipses. 
 
+
 -Options to choose:
+
 -Background and Border
+
+
 -Undo, Redo and clear
+
 ~Load and Save
