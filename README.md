@@ -17,10 +17,10 @@ Store management system clothes and accessories includes :
 ### Structure
 
     ├── Item                   # Abstract class
-    |     ├── Clothes           #Price by size
-    |     |    ├──Pants                     
-    |     |    ├──Shirt         # 
-    |     ├── Jewel                  # Tools and utilities
+    |    |    ├── Clothes      #Price by size
+    |    |    ├──Pants                     
+    |    |    ├──Shirt         
+    |    ├── Jewel            # Dynamic cast on size ,Jewelry has no size
     └── README.md
 
  
