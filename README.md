@@ -8,7 +8,9 @@ The goal of this project is to system optimization shop with specs:
 * Librarie: `STL` 
 * Framework: `MFC` 
 
-#Store management system clothes and accessories includes :
+
+Store management system clothes and accessories includes :
+
 ## Order management system
 
 
