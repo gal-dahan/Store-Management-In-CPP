@@ -4,9 +4,9 @@ This project is based on the MFC framework, final project in OOP.
 Store management system
 
 The goal of this project is to system optimization shop with specs:
-* Language: 'C++'
+* Language: `C++` 
 * Librarie: `STL` 
-* Framework: ' MFC'
+* Framework: `MFC` 
 
 #Store management system clothes and accessories includes :
 ## Order management system
