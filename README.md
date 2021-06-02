@@ -7,28 +7,20 @@ The goal of this project is to system optimization shop with specs:
 * Framework: ' MFC'
 
 Store management system clothes and accessories includes :
- Order management system
+## Order management system
 
 
-structure
+### Structure
 
-├── Item                    # Abstract class
-│   ├── Clothes             # Price by size
-│       ├──Pants            #
-│       ├──Shirt            #
-│   ├── Jewel               # Dynamic cast on size ,Jewelry has no size
-
-
-    ├── build                   # Compiled files (alternatively `dist`)
-    ├── docs                    # Documentation files (alternatively `doc`)
-    ├── src                     # Source files (alternatively `lib` or `app`)
-    ├── test                    # Automated tests (alternatively `spec` or `tests`)
-    ├── tools                   # Tools and utilities
-    ├── LICENSE
+    ├── Item                   # Abstract class
+    |     ├── Clothes           #Price by size
+    |     |    ├──Pants                     
+    |     |    ├──Shirt         # 
+    |     ├── Jewel                  # Tools and utilities
     └── README.md
 
  
-Designer
+### Designer
 
 
 basic drawings: Lines, Rectangles, Circles, Ellipses.
