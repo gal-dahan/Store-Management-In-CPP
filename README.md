@@ -27,7 +27,7 @@ Store management system clothes and accessories includes :
 ### Designer
 - basic drawings: `Lines` ,`Rectangles`, `Circles`, `Ellipses`. 
 
- Options to choose:
+    Options to choose:
 
 * Background and Border
 
