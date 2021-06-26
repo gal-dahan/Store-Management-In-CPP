@@ -17,10 +17,6 @@ Store management system clothes and accessories includes :
 
 
 # Order management system
-<p align="center">
-  <img src="MovListBoxItem/MovListBoxItem.gif" alt="Order management system" />
-</p>
-
 
 #### Structure
 
@@ -31,12 +27,13 @@ Store management system clothes and accessories includes :
     |    ├── Jewel            # Dynamic cast on size ,Jewelry has no size
     └── README.md
 
+<p align="center">
+  <img src="MovListBoxItem/MovListBoxItem.gif" alt="Order management system" />
+</p>
+
  
 # Designer
 
-<p align="center">
-  <img src="MyPaint/Designer.gif" alt="Designer" />
-</p>
 
 - basic drawings: `Lines` ,`Rectangles`, `Circles`, `Ellipses`. 
 
@@ -47,3 +44,7 @@ Store management system clothes and accessories includes :
 * Undo, Redo and clear
 
 * Load and Save
+
+<p align="center">
+  <img src="MyPaint/Designer.gif" alt="Designer" />
+</p>
