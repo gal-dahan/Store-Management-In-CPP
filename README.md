@@ -12,9 +12,10 @@ The goal of this project is to system optimization shop with specs:
 Store management system clothes and accessories includes :
 
 ## Order management system
+![](Store-Management.png)
 
 
-### Structure
+#### Structure
 
     ├── Item                   # Abstract class
     |    |    ├── Clothes      #Price by size
@@ -24,7 +25,7 @@ Store management system clothes and accessories includes :
     └── README.md
 
  
-### Designer
+#### Designer
 - basic drawings: `Lines` ,`Rectangles`, `Circles`, `Ellipses`. 
 
     Options to choose:
