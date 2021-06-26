@@ -10,9 +10,16 @@ The goal of this project is to system optimization shop with specs:
 
 
 Store management system clothes and accessories includes :
+<p align="center">
+  <img width="900" height="500" src="Store-Management.png" alt="Store-Management" />
+</p>
 
-## Order management system
-![](Store-Management.png)
+
+
+# Order management system
+<p align="center">
+  <img src="MovListBoxItem/MovListBoxItem.gif" alt="Order management system" />
+</p>
 
 
 #### Structure
@@ -25,7 +32,12 @@ Store management system clothes and accessories includes :
     └── README.md
 
  
-#### Designer
+# Designer
+
+<p align="center">
+  <img src="MyPaint/Designer.gif" alt="Designer" />
+</p>
+
 - basic drawings: `Lines` ,`Rectangles`, `Circles`, `Ellipses`. 
 
     Options to choose:
