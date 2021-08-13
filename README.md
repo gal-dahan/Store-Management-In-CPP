@@ -19,13 +19,13 @@ Store management system clothes and accessories includes :
 # Order management system
 
 #### Structure
-
-    ├── Item                   # Abstract class
-    |    |    ├── Clothes      #Price by size
-    |    |    ├──Pants                     
-    |    |    ├──Shirt         
-    |    ├── Jewel            # Dynamic cast on size ,Jewelry has no size
-    └── README.md
+    ────────────────────────────────────────────────────────────────────────────────────                                                                                  
+    ├── Item                   # Abstract class                                        |
+    |    |    ├── Clothes      #Price by size                                          |
+    |    |    ├──Pants                                                                 |
+    |    |    ├──Shirt                                                                 |
+    |    ├── Jewel            # Dynamic cast on size ,Jewelry has no size              | 
+    └──────────────────────────────────────────────────────────────────────────────────|
 
 <p align="center">
   <img src="MovListBoxItem/MovListBoxItem.gif" alt="Order management system" />
