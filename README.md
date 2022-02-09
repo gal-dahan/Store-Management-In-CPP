@@ -48,3 +48,10 @@ Store management system clothes and accessories includes :
 <p align="center">
   <img src="MyPaint/Designer.gif" alt="Designer" />
 </p>
+
+##  By:
+
+This project is done by students:
+
+- [Gal dahan ](https://github.com/gal-dahan)
+- [Omri rahmani ](https://github.com/omri1001) 
